@@ -6,7 +6,7 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 
 ### ¿Quiénes somos? 
 
-[alt](https://www.flickr.com/photos/nearsoft/25516989467/in/album-72157693674135675/)
+![alt](https://www.flickr.com/photos/nearsoft/25516989467/in/album-72157693674135675/)
 
 +++
 ### Nearsoft Academy 
