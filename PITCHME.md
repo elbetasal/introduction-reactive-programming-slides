@@ -15,8 +15,8 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 +++ 
 ### 3 Fases
 
-* Test de lógica.
-* Entrevista en inglés.
+* Test de lógica. |
+* Entrevista en inglés. |
 * Screen.
 
 
