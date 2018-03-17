@@ -13,6 +13,8 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 ![Learning](https://media1.tenor.com/images/5b04f7e51bd8659b985b8aa4f86ffedc/tenor.gif?itemid=4472291)
 
 +++ 
+### 3 Fases
+
 * Test de lógica.
 * Entrevista en inglés.
 * Screen.
