@@ -9,6 +9,14 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 +++
 ### Nearsoft Academy 
 
+![Learning](https://tenor.com/view/school-gif-4472291)
+
++++ 
+* Test de lógica.
+* Entrevista en inglés.
+* Screen.
+
+
 
 ---
 
