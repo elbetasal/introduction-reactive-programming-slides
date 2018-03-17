@@ -4,8 +4,6 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 
 ---
 
-### ¿Quiénes somos? 
-
 ![alt](assets/images/team.jpg)
 
 +++
