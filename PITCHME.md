@@ -30,7 +30,7 @@ Agregar foto cool para mostrar como funcionaba antes la web
 Agregar otra foto mostrando como es programar actualmente
 
 +++
-###Imperativa
+### Imperativa
 
 ```java
 ResponseEntity<Double> piNumber = restTemplate
@@ -38,7 +38,7 @@ ResponseEntity<Double> piNumber = restTemplate
 			return "Hello "+ name + " your PI number is :" + piNumber.getBody();
 ```
 
-###Reactiva
+### Reactiva
 ```java
 Mono<Double> doubleMono = webClient.get().uri("/pi" , new HashMap<>())
                     .retrieve()
@@ -52,6 +52,7 @@ Mono<Double> doubleMono = webClient.get().uri("/pi" , new HashMap<>())
                                             .fromObject(helloWithPi)));
 ```
 
+---
 ### ¿Qué es la programación reactiva?
 
 
