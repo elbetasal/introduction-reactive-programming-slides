@@ -17,7 +17,7 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 
 - Test de lógica. |
 - Entrevista en inglés. |
-- Screen.
+- Screen. |
 
 
 
