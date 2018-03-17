@@ -19,11 +19,12 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 - Entrevista en inglés. |
 - Screen. |
 
-
-
 ---
 
 ### One more 
+<p>
+                        Reactive == code that <br><strong>reacts to changes</strong>
+                    </p>
 
 ```java
 function fancyAlert(arg) {
