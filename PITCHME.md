@@ -1,10 +1,13 @@
-# Flux 
+# Introducción a Programación Reactiva
+![Logo](assets/logo.jpg)
 
-An application architecture for React
+por Esau Betancourt / @elbetasal
 
 ---
 
-### Flux Design
+### 
+
+
 
 - Dispatcher: Manages Data Flow
 - Stores: Handle State & Logic
