@@ -62,6 +62,10 @@ return doubleMono
                                 .fromObject(helloWithPi)));
 ```
 
++++
+
+![image](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
+
 ---
 ### ¿Qué es la programación reactiva?
 
