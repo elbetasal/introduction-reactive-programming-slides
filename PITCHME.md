@@ -2,9 +2,7 @@
 
 por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 
----
-
-![alt](assets/images/team.jpg)
+---?image=assets/images/team.jpg&size=90% 90%
 
 +++
 ### Nearsoft Academy 
