@@ -4,7 +4,7 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 
 ---
 ### ¿Quiénes somos?
-<img src="assets/images/team.jpg" width="48">
+<img src="assets/images/team.jpg" width="960">
 
 +++
 ### Nearsoft Academy 
