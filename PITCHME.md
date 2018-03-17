@@ -10,7 +10,7 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 +++
 ### Nearsoft Academy 
 
-![Learning](https://tenor.com/view/school-gif-4472291)
+![Learning](https://media1.tenor.com/images/5b04f7e51bd8659b985b8aa4f86ffedc/tenor.gif?itemid=4472291)
 
 +++ 
 * Test de lógica.
