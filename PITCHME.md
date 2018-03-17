@@ -66,7 +66,7 @@ return doubleMono
 
 ![image](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
 
-Credit: [Jenkov.com](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
+###### Credit: [Jenkov.com](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
 ---
 ### ¿Qué es la programación reactiva?
 
