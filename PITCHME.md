@@ -1,5 +1,5 @@
-### Introducción a Programación Reactiva
 ![Logo](assets/nearsoft.png)
+### Introducción a Programación Reactiva
 
 por Esau Betancourt / @elbetasal
 
