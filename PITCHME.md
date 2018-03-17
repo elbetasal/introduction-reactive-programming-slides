@@ -1,7 +1,6 @@
-
 ### Introducción a Programación Reactiva
 
-por Esau Betancourt / @elbetasal
+por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 
 ---
 
