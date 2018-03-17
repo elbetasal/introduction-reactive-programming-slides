@@ -3,6 +3,8 @@
 por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 
 ---
+
+
 <img src="assets/images/team.jpg" >
 
 +++
