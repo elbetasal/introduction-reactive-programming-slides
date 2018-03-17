@@ -4,13 +4,12 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 
 ---
 
-### 
+### ¿Quiénes somos? 
 
 
++++
+### Nearsoft Academy 
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
 
 ---
 
