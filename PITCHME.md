@@ -27,7 +27,9 @@ Agregar foto cool para mostrar como funcionaba antes la web
 
 +++
 
-Agregar otra foto mostrando como es programar actualmente
+![iot](https://bridgera.com/wp-content/uploads/2017/01/Internet_of_Things.jpg)
+
+###### Graphic by Wilgengebroed on Flickr [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
 
 +++
 ### Imperativa
@@ -71,6 +73,11 @@ return doubleMono
 ---
 ### Reactive Manifiesto
 ![reactive](assets/images/reactive-traits-es.svg)
+
+### Sistemas Reactivos vs Programación reactiva.
+
+
+
 ---
 Futures and callbacks
 
