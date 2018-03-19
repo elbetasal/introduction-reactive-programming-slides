@@ -26,8 +26,7 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 Agregar foto cool para mostrar como funcionaba antes la web
 
 +++
-
-![iot](https://bridgera.com/wp-content/uploads/2017/01/Internet_of_Things.jpg)
+<img src="https://bridgera.com/wp-content/uploads/2017/01/Internet_of_Things.jpg" height="450px" >
 
 ###### Graphic by Wilgengebroed on Flickr [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
 
