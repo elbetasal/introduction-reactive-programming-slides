@@ -69,7 +69,7 @@ return doubleMono
 ###### Credit: [Jenkov.com](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
 
 ---
-###Reactive Manifiesto
+### Reactive Manifiesto
 ![reactive](assets/images/reactive-traits-es.svg)
 ---
 Futures and callbacks
