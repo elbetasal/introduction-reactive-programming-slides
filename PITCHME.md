@@ -23,7 +23,7 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 
 ###  
 
-Agregar foto cool para mostrar como funcionaba antes la web
+![web](assets/images/web.png)
 
 +++
 <img src="https://bridgera.com/wp-content/uploads/2017/01/Internet_of_Things.jpg" height="450px" >
