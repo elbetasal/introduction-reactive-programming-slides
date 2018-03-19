@@ -76,9 +76,9 @@ return doubleMono
 ---
 ### Sistemas Reactivos vs Programación reactiva.
 
-##### Reactive programming
+- Reactive programming
   A development model focusing on the observation of data streams, reacting on changes, and propagating them. |
-##### Reactive system
+- Reactive system
   An architecture style used to build responsive and robust distributed systems based on asynchronous message-passing.
 
 ---
