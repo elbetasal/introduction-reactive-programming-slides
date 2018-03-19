@@ -70,18 +70,21 @@ return doubleMono
 ###### Credit: [Jenkov.com](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
 
 ---
-### Reactive Manifiesto
-![reactive](assets/images/reactive-traits-es.svg)
 
-+++
-
-##### Reactive programming. 
-A development model focusing on the observation of data streams, reacting on changes, and propagating them. |
++++ 
 
 #### Reactive system 
 An architecture style used to build responsive and robust distributed systems based on asynchronous message-passing.
 
 ---
+### Reactive Manifiesto
+![reactive](assets/images/reactive-traits-es.svg)
+
+---
+##### Reactive programming. 
+A development model focusing on the observation of data streams, reacting on changes, and propagating them. 
+
++++ 
 ### Futures and callbacks
 
 ---
