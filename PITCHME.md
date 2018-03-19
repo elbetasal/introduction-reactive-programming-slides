@@ -21,7 +21,7 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 
 ---
 
-### Historia 
+###  
 
 Agregar foto cool para mostrar como funcionaba antes la web
 
@@ -67,18 +67,21 @@ return doubleMono
 ![image](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
 
 ###### Credit: [Jenkov.com](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
+
 ---
-### ¿Qué es la programación reactiva?
+###Reactive Manifiesto
+![reactive](assets/images/reactive-traits-es.svg)
+---
+Futures and callbacks
 
+---
+Observer Pattern
 
+---
+RxJava
 
+---
+Vert.x
 
-```java
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+---
+Spring
