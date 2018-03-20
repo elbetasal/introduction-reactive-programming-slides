@@ -71,24 +71,30 @@ return doubleMono
 
 ---
 
-+++ 
-
 #### Reactive system 
 An architecture style used to build responsive and robust distributed systems based on asynchronous message-passing.
 
----
++++
 ### Reactive Manifiesto
 ![reactive](assets/images/reactive-traits-es.svg)
 
----
++++
 ##### Reactive programming. 
 A development model focusing on the observation of data streams, reacting on changes, and propagating them. 
 
++++
+### Observer Pattern
+
 +++ 
-### Futures and callbacks
+More concepts
+
+--- 
+### Futuros 
+Un futuro representa el resultado de un procesamiento asíncrono. 
+![wait](assets/images/waiting.gif)
 
 ---
-Observer Pattern
+
 
 ---
 RxJava
