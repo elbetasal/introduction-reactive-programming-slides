@@ -92,9 +92,9 @@ More concepts
 --- 
 ### Futuros 
 Un futuro representa el resultado de un procesamiento asíncrono. 
-![wait](assets/images/waiting.gif)
 
 ---
+![wait](assets/images/waiting.gif)
 
 
 ---
