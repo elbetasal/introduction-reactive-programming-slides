@@ -26,6 +26,7 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 ![web](assets/images/web.png)
 
 +++
+
 <img src="https://bridgera.com/wp-content/uploads/2017/01/Internet_of_Things.jpg" height="450px" >
 
 <label style="font-size: 14px;"> Graphic by Wilgengebroed on Flickr [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons</label>
