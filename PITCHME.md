@@ -54,7 +54,7 @@ A development model focusing on the observation of data streams, reacting on cha
 
 ### Diseñando una API Reactiva
 
-- Usa comunicación asíncrona via eventos. | 
+- Usa comunicación asíncrona via eventos | 
 - Piensa en término de flujos de eventos. 
 
 +++
@@ -131,6 +131,7 @@ exceptionally(Function<Throwable, ? extends T> fn)
 
 
 ```
+
 +++
 
 ### RxJava
@@ -139,6 +140,7 @@ exceptionally(Function<Throwable, ? extends T> fn)
  “Se basa en el en la composición asíncrona y programas basados en eventos , mediante el uso de secuencias observables.”
 
  +++
+
  ### ¿Porqué?
 
  -  Legibilidad | 
