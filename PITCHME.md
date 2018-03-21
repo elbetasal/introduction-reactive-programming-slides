@@ -143,9 +143,9 @@ exceptionally(Function<Throwable, ? extends T> fn)
 
  ### ¿Porqué?
 
-- Legibilidad | 
+- Legibilidad 
 - Simplicidad | 
-- Lazyness.
+- Lazyness. |
  
 
 +++ 
