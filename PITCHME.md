@@ -136,13 +136,24 @@ exceptionally(Function<Throwable, ? extends T> fn)
 
 ### RxJava
 
- Es una librería Java que implementa las ReactiveX (extensiones reactivas ).</br>
+ Es una librería Java que implementa las ReactiveX (extensiones reactivas ).</br> 
  `Se basa la composición asíncrona y programas basados en eventos , mediante el uso de secuencias observables.`
 
 +++
 
  ### ¿Porqué?
 
- -  Legibilidad | 
- - Simplifica la concurrencia.
+ - Legibilidad | 
+ - Simplicidad | 
+ 
+
+ +++ 
+
+ ### Clases Base
+
+- io.reactivex.Flowable: 0..N flows, supporting Reactive-Streams and backpressure | 
+- io.reactivex.Observable: 0..N flows, no backpressure | 
+- io.reactivex.Single: a flow of exactly 1 item or an error |
+- io.reactivex.Completable: a flow without items but only a completion or error signal |
+- io.reactivex.Maybe: a flow with no items, exactly one item or an error
 
