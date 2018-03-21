@@ -132,7 +132,7 @@ exceptionally(Function<Throwable, ? extends T> fn)
 
 ```
 
-+++
+---
 
 ### RxJava
 
