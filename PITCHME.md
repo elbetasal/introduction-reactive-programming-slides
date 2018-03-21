@@ -36,6 +36,12 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 A development model focusing on the observation of data streams, reacting on changes, and propagating them. 
 
 +++ 
+
+### Streams
+
+![stream](assets/images/stream.png)
+
++++
 ### No bloquees
 ![wait](assets/images/waiting.gif)
 
@@ -45,9 +51,6 @@ A development model focusing on the observation of data streams, reacting on cha
 
 
 +++
-### Streams
-
-![stream](assets/images/stream.png)
 
 ### Diseñando una API Reactiva
 
@@ -128,5 +131,16 @@ exceptionally(Function<Throwable, ? extends T> fn)
 
 
 ```
----
-RxJava
++++
+
+### RxJava
+
+ Es una librería Java que implementa las ReactiveX (extensiones reactivas ) 
+ “Se basa en el en la composición asíncrona y programas basados en eventos , mediante el uso de secuencias observables.”
+
+ +++
+ ### ¿Porqué?
+
+ -  Legibilidad | 
+ - Simplifica la concurrencia.
+
