@@ -69,7 +69,7 @@ A development model focusing on the observation of data streams, reacting on cha
 
 +++ 
 ### No bloquees
-![waiting](https://media.giphy.com/media/WU7QGtabmfb1e/giphy.gif)
+![wait](assets/images/waiting.gif)
 
 +++
 ### ¿Cuándo usarlo?
@@ -95,7 +95,7 @@ An architecture style used to build responsive and robust distributed systems ba
 
 --- 
 ### Futuros 
-![wait](assets/images/waiting.gif)
+
 
 +++
 
