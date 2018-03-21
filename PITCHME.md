@@ -93,7 +93,8 @@ More concepts
 ### Futuros 
 ![wait](assets/images/waiting.gif)
 
----
++++
+
 ### CompletableFuture
 
 ```
