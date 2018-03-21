@@ -10,7 +10,7 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 +++
 ### Nearsoft Academy 
 
-![Learning](https://media1.tenor.com/images/5b04f7e51bd8659b985b8aa4f86ffedc/tenor.gif?itemid=4472291)
+![Learning](assets/images/learn.gif)
 
 +++ 
 ### 3 Fases
@@ -27,7 +27,7 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 
 +++
 
-<img src="https://bridgera.com/wp-content/uploads/2017/01/Internet_of_Things.jpg" height="450px" >
+<img src="assets/images/Internet_of_Things.jpg" height="450px" >
 
 <label style="font-size: 14px;"> Graphic by Wilgengebroed on Flickr [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons</label>
 
@@ -56,7 +56,7 @@ A development model focusing on the observation of data streams, reacting on cha
 
 +++
 
-![image](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
+![image](assets/images/software-architecture-introduction-3.png)
 
 ###### Credit: [Jenkov.com](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
 
