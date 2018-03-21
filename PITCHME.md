@@ -136,8 +136,8 @@ exceptionally(Function<Throwable, ? extends T> fn)
 
 ### RxJava
 
- Es una librería Java que implementa las ReactiveX (extensiones reactivas ) 
- `Se basa en el en la composición asíncrona y programas basados en eventos , mediante el uso de secuencias observables.`
+ Es una librería Java que implementa las ReactiveX (extensiones reactivas ).</br>
+ `Se basa la composición asíncrona y programas basados en eventos , mediante el uso de secuencias observables.`
 
 +++
 
