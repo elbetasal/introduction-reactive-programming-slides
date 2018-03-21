@@ -63,6 +63,20 @@ return doubleMono
                           .body(BodyInserters
                                 .fromObject(helloWithPi)));
 ```
++++
+##### Reactive programming. 
+A development model focusing on the observation of data streams, reacting on changes, and propagating them. 
+
++++ 
+### No bloquees
+![waiting](https://media.giphy.com/media/WU7QGtabmfb1e/giphy.gif)
+
++++
+### ¿Cuándo usarlo?
+
+
++++ 
+More concepts
 
 +++
 
@@ -79,16 +93,6 @@ An architecture style used to build responsive and robust distributed systems ba
 ### Reactive Manifiesto
 ![reactive](assets/images/reactive-traits-es.svg)
 
-+++
-##### Reactive programming. 
-A development model focusing on the observation of data streams, reacting on changes, and propagating them. 
-
-+++
-### Observer Pattern
-
-+++ 
-More concepts
-
 --- 
 ### Futuros 
 ![wait](assets/images/waiting.gif)
@@ -99,25 +103,20 @@ More concepts
 
 ```
 
--supplyAsync(Supplier<U> supplier)
+supplyAsync(Supplier<U> supplier)
 
--thenAcceptAsync(Consumer<? super T> action)
+thenAcceptAsync(Consumer<? super T> action)
 
--thenComposeAsync(Function<? super T, ? extends CompletionStage<U>> fn)
+thenComposeAsync(Function<? super T, ? extends CompletionStage<U>> fn)
 
--thenCombineAsync(CompletionStage<? extends U> other,BiFunction<? super T,? super U,? extends V> fn)
+thenCombineAsync(CompletionStage<? extends U> other,BiFunction<? super T,? super U,? extends V> fn)
 
--exceptionally(Function<Throwable, ? extends T> fn)
+exceptionally(Function<Throwable, ? extends T> fn)
 
 
 ```
-
-
 ---
 RxJava
-
----
-Vert.x
 
 ---
 Spring
