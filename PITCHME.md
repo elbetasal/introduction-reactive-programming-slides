@@ -168,7 +168,7 @@ An initiative to provide a standard for asynchronous stream processing with non-
 
 +++
 ### Back pressure
-![backpressure](https://www.youtube.com/watch?v=d3fFcINbsrM)
+![backpressure](https://youtu.be/d3fFcINbsrM)
 
 +++
 ### Operadores
