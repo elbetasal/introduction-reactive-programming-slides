@@ -96,10 +96,19 @@ More concepts
 ---
 ### CompletableFuture
 
-```java
- 
+```
 
-thenAccept(Consumer<? super T> action)
+-supplyAsync(Supplier<U> supplier)
+
+-thenAcceptAsync(Consumer<? super T> action)
+
+-thenComposeAsync(Function<? super T, ? extends CompletionStage<U>> fn)
+
+-thenCombineAsync(CompletionStage<? extends U> other,BiFunction<? super T,? super U,? extends V> fn)
+
+-exceptionally(Function<Throwable, ? extends T> fn)
+
+
 ```
 
 
