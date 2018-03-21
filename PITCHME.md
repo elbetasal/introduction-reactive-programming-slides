@@ -145,10 +145,10 @@ exceptionally(Function<Throwable, ? extends T> fn)
 
  - Legibilidad | 
  - Simplicidad | 
- - Lazyness 
+ - Lazyness.
  
 
- +++ 
++++ 
 
  ### Clases Base
 
