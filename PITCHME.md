@@ -54,8 +54,8 @@ A development model focusing on the observation of data streams, reacting on cha
 
 ### Diseñando una API Reactiva
 
-- Usa comunicación asíncrona via eventos | 
-- Piensa en término de flujos de eventos. 
+- Usa comunicación asíncrona via eventos 
+- Piensa en término de flujos de eventos. | 
 
 +++
 
