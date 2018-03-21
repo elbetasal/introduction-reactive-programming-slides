@@ -32,6 +32,35 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 <label style="font-size: 14px;"> Graphic by Wilgengebroed on Flickr [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons</label>
 
 +++
+##### Reactive programming. 
+A development model focusing on the observation of data streams, reacting on changes, and propagating them. 
+
++++ 
+### No bloquees
+![wait](assets/images/waiting.gif)
+
++++ 
+
+### ¿Cuándo usarlo?
+
+
++++
+### Streams
+
+![stream](assets/images/stream.png)
+
+### Diseñando una API Reactiva
+
+- Usa comunicación asíncrona via eventos. | 
+- Piensa en término de flujos de eventos. 
+
++++
+
+![image](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
+
+###### Credit: [Jenkov.com](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
+
++++
 ### Imperativa
 
 ```java
@@ -63,38 +92,6 @@ return doubleMono
                           .body(BodyInserters
                                 .fromObject(helloWithPi)));
 ```
-+++
-##### Reactive programming. 
-A development model focusing on the observation of data streams, reacting on changes, and propagating them. 
-
-+++ 
-### No bloquees
-![wait](assets/images/waiting.gif)
-
-+++ 
-
-+++
-### ¿Cuándo usarlo?
-
-
-+++
-### Streams
-
-![stream](assets/images/stream.png)
-
-### Diseñando una API Reactiva
-
-- Usa comunicación asíncrona via eventos. | 
-- Piensa en término de flujos de eventos. 
-
-
-
-+++
-
-![image](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
-
-###### Credit: [Jenkov.com](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
-
 ---
 
 #### Reactive system 
@@ -107,6 +104,11 @@ An architecture style used to build responsive and robust distributed systems ba
 --- 
 ### Futuros 
 
+```
+get()
+
+get(long timeout, TimeUnit unit)
+```
 
 +++
 
@@ -128,6 +130,3 @@ exceptionally(Function<Throwable, ? extends T> fn)
 ```
 ---
 RxJava
-
----
-Spring
