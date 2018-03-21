@@ -170,3 +170,6 @@ An initiative to provide a standard for asynchronous stream processing with non-
 ### Back pressure
 
 
++++
+### Operadores
+http://rxmarbles.com/
