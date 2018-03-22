@@ -160,7 +160,6 @@ io.reactivex.Completable: a flow without items but only a completion or error si
 io.reactivex.Maybe: a flow with no items, exactly one item or an error
 
 ```
-
 +++  
 
 ### Push vs Pull 
