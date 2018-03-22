@@ -59,7 +59,7 @@ Un modo de desarrollo enfocado en la observacion de streams de datos, reaccionan
 
 +++
 
-![image](assets/images/software-architecture-introduction-3.png)
+![image](assets/images/software-architecture-introduction-3.jpg)
 
 +++
 ### Imperativa
