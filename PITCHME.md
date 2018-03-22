@@ -137,7 +137,7 @@ exceptionally(Function<Throwable, ? extends T> fn)
 ### RxJava
 
  Es una librería Java que implementa las ReactiveX (extensiones reactivas ).</br> 
- `Se basa la composición asíncrona y programas basados en eventos , mediante el uso de secuencias observables.`
+ `Se basa en la composición asíncrona y programas basados en eventos , mediante el uso de secuencias observables.`
 
 +++
 
@@ -161,14 +161,20 @@ io.reactivex.Maybe: a flow with no items, exactly one item or an error
 
 ```
 
++++  
+
+### Push vs Pull 
+Estamos acostumbrados a un modelo donde le pedimos al productor un nuevo elemento cada vez que lo necesitamos (Pull) en vez de que el productor nos avise de cuando está disponible (Pull). En ocasiones provoca bloquear al usuario hasta que esté disponible. 
+
++++
+###  Eventos 
+
+Un elemento observable puede producir 3 tipos de eventos : • Evento normal • Evento de terminación • Evento de error
+
 +++ 
 ### Reactive Streams
 
-An initiative to provide a standard for asynchronous stream processing with non-blocking back pressure.
-
-+++
-### Back pressure
-![backpressure](https://youtu.be/d3fFcINbsrM)
+Una initiava para proveer un estándar para el procesamiento asíncrono de stream con back pressure.
 
 +++
 ### Operadores
