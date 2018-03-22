@@ -33,17 +33,13 @@ por Esau Betancourt / [@elbetasal](https://twitter.com/elbetasal)
 
 +++
 ##### Reactive programming. 
-A development model focusing on the observation of data streams, reacting on changes, and propagating them. 
+Un modo de desarrollo enfocado en la observacion de streams de datos, reaccionando a cambios y propagándolos.
 
 +++ 
 
 ### Streams
 
 ![stream](assets/images/stream.png)
-
-+++
-### No bloquees
-![wait](assets/images/waiting.gif)
 
 +++ 
 
@@ -58,10 +54,12 @@ A development model focusing on the observation of data streams, reacting on cha
 - Piensa en término de flujos de eventos. | 
 
 +++
+### No bloquees
+![wait](assets/images/waiting.gif)
+
++++
 
 ![image](assets/images/software-architecture-introduction-3.png)
-
-###### Credit: [Jenkov.com](http://tutorials.jenkov.com/images/software-architecture/software-architecture-introduction-3.png)
 
 +++
 ### Imperativa
@@ -168,7 +166,10 @@ Estamos acostumbrados a un modelo donde le pedimos al productor un nuevo element
 +++
 ###  Eventos 
 
-Un elemento observable puede producir 3 tipos de eventos : • Evento normal • Evento de terminación • Evento de error
+Un elemento observable puede producir 3 tipos de eventos : 
+- Evento normal 
+- Evento de terminación 
+- Evento de error
 
 +++ 
 ### Reactive Streams
@@ -178,3 +179,11 @@ Una initiava para proveer un estándar para el procesamiento asíncrono de strea
 +++
 ### Operadores
 http://rxmarbles.com/
+
+---
+
+### Otras opciones
+
+- [VertX](http://vertx.io/)  
+- [Spring Reactor](https://projectreactor.io/)
+- [Akka Streams](https://doc.akka.io/docs/akka/2.5.5/scala/stream/index.html)
